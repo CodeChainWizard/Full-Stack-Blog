@@ -23,7 +23,7 @@ export default function CallToAction() {
         </Button>
       </div>
       <div className="p-7 flex-1">
-        <img src={img} />
+        <img src={img} className="rounded-md" />
       </div>
     </div>
   );
